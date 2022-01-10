@@ -1,0 +1,17 @@
+body {
+	background-image: url("pictures/contact_me_background.jpg");
+	
+	background-repeat: no-repeat;
+	
+	background-size: 100% 100%;
+	
+	background-attachment: fixed;
+	
+}
+
+div {
+	margin-top:200px;
+	margin-left:400px;
+	font-size:300%;
+	color:Blue;
+}

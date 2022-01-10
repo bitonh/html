@@ -1,0 +1,34 @@
+body {
+	background-image: url("pictures/index_background.jpg");
+	
+	background-repeat: no-repeat;
+	
+	background-size: 100% 100%;
+	
+	background-attachment: fixed;	
+	
+}
+
+h1{
+	font-size:400%;
+	color:Brown;
+}
+
+span {
+	color:Blue;
+	font-size:200%;
+	margin-left:50px;
+}
+
+li {
+	margin-left:100px;
+}
+div {
+	color:Blue;
+	font-size:150%;
+	background-color:Pink;
+	width:250px;
+	border-color:Grey;
+	border-width:7px;
+	border-style:double;	
+}
